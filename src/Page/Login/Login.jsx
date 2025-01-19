@@ -11,10 +11,8 @@ function Login() {
   function HandleSubmit(e) {
     e.preventDefault();
     if (signup) {
-      console.log("Signup");
       Emailpasswordsignup(email, password);
     } else {
-      console.log("Signin");
       Emailpasswordsignin(email, password);
     }
     setname("");

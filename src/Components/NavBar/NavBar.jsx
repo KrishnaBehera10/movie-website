@@ -104,7 +104,12 @@ function NavBar() {
           <p className="text-md font-medium">Account</p>
           <RxCross2 size={25} onClick={isOpen} />
         </div>
-        <p>Exit to here</p>
+        <p
+          className=" ml-2 text-white rounded-md text-sm p-2 bg-total w-fit cursor-pointer"
+          onClick={() => signout()}
+        >
+          Log out
+        </p>
       </div>
     </div>
   );
