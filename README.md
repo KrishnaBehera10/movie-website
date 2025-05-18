@@ -32,6 +32,3 @@ This project is a frontend-only implementation created for practicing React comp
 
 ---
 
-
-## 📁 Project Structure
-
