@@ -32,13 +32,6 @@ This project is a frontend-only implementation created for practicing React comp
 
 ---
 
-## 📸 Screenshot
-
-![Movie Website Preview](screenshot.png)
-
-> (Add `screenshot.png` to your repo to display the preview here)
-
----
 
 ## 📁 Project Structure
 
